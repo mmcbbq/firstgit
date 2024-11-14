@@ -1,2 +1,0 @@
-user = mmc
-passswort = 123456
